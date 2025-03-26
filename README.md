@@ -14,11 +14,11 @@ This folder contains optimized video files (`.mp4` and `.webm`) used exclusively
    - A woman making a phone call, intentionally blurred.
    - Used to evoke mystery, human interaction, and focus on voice presence.
 
-2. **call-center.mp4 / .webm**
+2. **call-lucid.mp4 / .webm**
    - A woman actively handling calls.
    - Represents professionalism and communication.
 
-3. **fork-river.mp4 / .webm**
+3. **fork-agency.mp4 / .webm**
    - A river with branches merging.
    - Symbolizes the concept of "Fork" — multiple paths converging into one.
 
